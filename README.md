@@ -1,11 +1,34 @@
 
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Good%20to%20see%20you!&center=true&width=500&height=50"></a>
+</p>
 
-<h4 align="left">My name is Camila and I'm a Java Developer  from Córdoba, Argentina.</h4>
+# 🖍About Me:
+``` csharp
 
-###
+package aboutme;
 
-<h6 align="left">Passionate about learning and growing in the field of software development. Committed to technical excellence and continuous improvement.</h6>
+public class CamilaMartin { 
+
+  public static void main(String[] args) {
+
+    🧉String language = "English and Spanish";
+    💻String career = "Software engineering";📚
+    💞boolean likesAvocado = true;
+    🌎String from = "Córdoba, Argentina";
+
+    System.out.println("Thanks for taking a look at my GitHub! <3");
+    }
+}
+```
+
+
+# 👨‍💻 Skills 
+
+
+
+
 
 ###
 
