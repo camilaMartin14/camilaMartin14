@@ -43,9 +43,4 @@ public class CamilaMartin {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilaMartin14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<!--
-<div align="left">
-  <img height="200" src="https://64.media.tumblr.com/fc35eeaab4a2507d2668b895d024119e/tumblr_mfo7yxvhSU1r43mgoo1_500.gif"  />
-</div>
---> 
 ###
