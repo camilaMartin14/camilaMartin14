@@ -14,7 +14,7 @@ public class CamilaMartin {
   public static void main(String[] args) {
 
     🧉String language = "English and Spanish";
-    💻String career = "Software engineering";📚
+    📚String career = "Software engineering";
     💞boolean likesAvocado = true;
     🌎String from = "Córdoba, Argentina";
 
