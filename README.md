@@ -4,24 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Good%20to%20see%20you!&center=true&width=500&height=50"></a>
 </p>
 
-## 🖍About Me:
-``` csharp
-
-package aboutme;
-
-public class CamilaMartin { 
-
-  public static void main(String[] args) {
-
-    🧉String language = "English and Spanish";
-    📚String career = "Software engineering";
-    💞boolean likesAvocado = true;
-    🌎String from = "Córdoba, Argentina";
-
-    System.out.println("Thanks for taking a look at my GitHub! <3");
-    }
-}
-```
 
 
 ## 👩‍💻 Skills 
@@ -29,7 +11,7 @@ public class CamilaMartin {
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
