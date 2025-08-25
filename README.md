@@ -7,10 +7,21 @@
   </a>
 </p>
 
-🎓 Estudiante de Tecnicatura Universitaria en Programación (UTN, Argentina)  
-💻 Enfocada en C#, .NET y SQL Server  
+```csharp
+using System;
 
-
+class Camila
+{
+    public string GetInformation()
+    {
+        return "🎓 Carrera: Tecnicatura Universitaria en Programación (UTN)" +
+               "💻 Intereses: C#, .NET, SQL Server" +
+               "🌱 Objetivo: crecer como Desarrolladora Full Stack" +
+               "🌍 Vivo en: Córdoba, Argentina" +
+               "🌐 Idiomas: Español (nativo), Inglés (intermedio)";
+    }
+}
+```
 
 ## 👩‍💻 Habilidades  
 
@@ -49,7 +60,7 @@
   </a>
   <a href="mailto:camilamartin1403@gmail.com">
      <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" alt="gmail logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" alt="gmail logo" />
   </a>
 </div>
 
