@@ -1,72 +1,64 @@
-<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
- 
+<h1 align="center">Camila Martín</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Programación;Desarrolladora+Fullstack+en+progreso&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrolladora+Fullstack&center=true&width=400&height=40">
   </a>
 </p>
 
-```csharp
-using System;
+<p align="center">
+  📍 Córdoba, Argentina &nbsp;·&nbsp;
+  🌐 Español | Inglés intermedio
+</p>
 
-class Camila
-{
-    public string GetInformation()
-    {
-        return "🎓 Carrera: Tecnicatura Universitaria en Programación (UTN)" +
-               "💻 Intereses: C#, .NET, SQL Server" +
-               "🌱 Objetivo: crecer como Desarrolladora Full Stack" +
-               "🌍 Vivo en: Córdoba, Argentina" +
-               "🌐 Idiomas: Español (nativo), Inglés (intermedio)";
-    }
-}
-```
+---
 
-## 👩‍💻 Habilidades  
+### 👩‍💻 Sobre mí
 
-<div align="center">
- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /> 
- <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-   <img width="12" />
-</div>
-<div align="center"> 
- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
- <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
+Desarrolladora Full Stack con especialización en backend .NET y bases de datos relacionales. Cuento con experiencia diseñando arquitecturas en capas y APIs REST sobre SQL Server, enfocadas en optimizar la gestión y organización de datos.
 
-</div>
+Actualmente, fortalezco mi formación técnica en la Tecnicatura Universitaria en Programación (UTN), aplicando buenas prácticas y patrones de diseño en proyectos escalables.
 
+---
 
+### 🧩 Tecnologías
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40"/>
+</p>
 
-## 🌐 Contacto  
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/camilamartindev" target="_blank">
-     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
+### 📂 Proyectos destacados
+
+- **Arcadia — E-commerce de Libros**  
+  Plataforma de venta y gestión de libros con .NET Web API, SQL Server y autenticación JWT.
+
+- **Logra — Organización Personal**  
+  Aplicación de planificación diaria con gestión de tareas, notas y estados de ánimo.
+
+👉 [Ver portfolio](https://portfolio-camila-martin.vercel.app/)
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camilamartindev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:camilamartin1403@gmail.com">
-     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" alt="gmail logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30"/>
   </a>
-</div>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=camilaMartin14&theme=vue&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMartin14&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
