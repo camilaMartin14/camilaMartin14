@@ -8,7 +8,7 @@
 
 <p align="center">
   📍 Córdoba, Argentina &nbsp;·&nbsp;
-  🌐 Español | Inglés intermedio
+  🌐 Español | Inglés Avanzado
 </p>
 
 ---
