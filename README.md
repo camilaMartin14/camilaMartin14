@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Camila Martín 👩‍💻</h1> 
+<h1 align="center">Hola, soy Camila Martín </h1> 
  
 <p align="center"> 
   <a href="https://portfolio-camila-martin.vercel.app/"> 
