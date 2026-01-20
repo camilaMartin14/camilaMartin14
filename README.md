@@ -37,7 +37,7 @@ Actualmente, fortalezco mi formación técnica en la **Tecnicatura Universitaria
 
 <div align="center">
   🔭 <b>Trabajando en:</b> <a href="https://portfolio-camila-martin.vercel.app/"><b>Tu Crédito</b></a> (Fintech API) &nbsp; | &nbsp;
-  🌱 <b>Aprendiendo:</b> Arquitecturas Cloud & Microservicios
+  🌱 Profundizando en <b>Angular</b> y arquitectura frontend 
 </div>
 
 --- 
