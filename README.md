@@ -89,7 +89,7 @@ Actualmente, fortalezco mi formación técnica en la **Tecnicatura Universitaria
 <br>
 
 <p align="center">
-  <sub>Gracias por pasarte por mi perfil! ♥️</sub>
+  <sub>Gracias por pasarte por mi perfil ♥️</sub>
 </p>
 
 
