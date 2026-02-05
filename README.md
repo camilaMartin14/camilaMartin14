@@ -64,29 +64,10 @@ Actualmente, fortalezco mi formación técnica en la **Tecnicatura Universitaria
 </div> 
  
 --- 
- 
-### 📂 Proyectos Destacados 
- 
-| Proyecto | Descripción | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **🏦 Tu Crédito** <br> *(En desarrollo)* | **API Backend robusta diseñada para instituciones financieras.**<br>Automatiza el ciclo de vida de los préstamos con validaciones complejas y seguridad avanzada.<br><br><details><summary><b>🚀 Ver detalles técnicos</b></summary><ul><li><b>Arquitectura:</b> Arquitectura en capas, Repository Pattern, DI.</li><li><b>Seguridad:</b> JWT Bearer, Hashing, Auditoría automática (Audit Interceptor).</li><li><b>Integraciones:</b> BCRA (Scoring), Cotización Monedas, MinIO (Documentación).</li><li><b>Datos:</b> SQL Server, EF Core, AutoMapper.</li></ul></details> | `.NET 10` `EF Core` `SQL Server` `JWT` `MinIO` | [💻 Repo](https://github.com/camilaMartin14/Tu-Credito) <br> [🌐 Demo](#) |
-| **📚 Arcadia** | **Plataforma integral de venta de libros.**<br>Enfocada en la escalabilidad y la toma de decisiones basada en datos.<br><br><details><summary><b>🚀 Ver detalles técnicos</b></summary><ul><li><b>Backend:</b> .NET Web API, SQL Server, JWT.</li><li><b>Frontend:</b> HTML5, CSS3, JavaScript.</li><li><b>Arquitectura:</b> Capas (Services, Repositories, DTOs).</li><li><b>Features:</b> Dashboard métricas, Auth JWT, ABMC Completo.</li></ul></details> | `.NET Web API` `SQL Server` `JWT` `JS` | [💻 Repo](https://github.com/camilaMartin14/Arcadia-Web) <br> [🌐 Demo](https://arcadia-mu-five.vercel.app) |
-| **✅ Logra** | **Aplicación de productividad (Daily Planner).**<br>Diseñada para maximizar el enfoque diario con backend optimizado y frontend ligero.<br><br><details><summary><b>🚀 Ver detalles técnicos</b></summary><ul><li><b>Backend:</b> .NET 8 Web API, EF Core, SQL Server/SQLite.</li><li><b>Frontend:</b> SPA en Vanilla JS (ES6+), CSS3 Nativo, Drag & Drop.</li><li><b>Arquitectura:</b> Arquitectura en capas, Repository Pattern, DI.</li><li><b>Highlights:</b> Sincronización Offline-first, Optimización N+1.</li></ul></details> | `.NET 8` `Vanilla JS` `SQL Server` `Clean Arch` | [💻 Repo](https://github.com/camilaMartin14/Logra--Daily-Planner) <br> [🌐 Demo](https://logra-psi.vercel.app/) |
 
 👉 **[Ver portfolio completo](https://portfolio-camila-martin.vercel.app/)**
  
 --- 
- 
-### 📊 Estadísticas en GitHub 
- 
-<div align="center">
-  <a href="https://github.com/camilaMartin14">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=camilaMartin14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMartin14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
-<br>
 
 <p align="center">
   <sub>Gracias por pasarte por mi perfil ♥️</sub>
