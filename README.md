@@ -2,7 +2,7 @@
  
 <p align="center"> 
   <a href="https://portfolio-camila-martin.vercel.app/"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9457EB&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack;.NET+%7C+C%23+%7C+SQL+Server+%7C+Angular" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9457EB&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack" /> 
   </a> 
 </p> 
  
@@ -35,11 +35,6 @@ Actualmente, fortalezco mi formación técnica en la **Tecnicatura Universitaria
 
 <br>
 
-<div align="center">
-  🔭 <b>Trabajando en:</b> <a href="https://portfolio-camila-martin.vercel.app/"><b>Tu Crédito</b></a> (Fintech API) &nbsp; | &nbsp;
-  🌱 Profundizando en <b>Angular</b> y arquitectura frontend 
-</div>
-
 --- 
  
 ### 🚀 Stack Tecnológico 
@@ -53,7 +48,6 @@ Actualmente, fortalezco mi formación técnica en la **Tecnicatura Universitaria
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript" title="JavaScript" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angular" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" title="HTML5" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" title="CSS3" /> 
   
